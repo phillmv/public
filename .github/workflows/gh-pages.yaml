@@ -1,6 +1,7 @@
 name: Middleman
 
 on:
+  workflow_dispatch:
   push:
     branches: [main]
 
@@ -15,4 +16,4 @@ jobs:
           REMOTE_BRANCH: gh-pages
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           HTTP_PREFIX: 'public'
-        uses: phillmv/arquivo-export@main
+        uses: phillmv/arquivo-export@from-arquivo
