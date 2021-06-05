@@ -1,0 +1,14 @@
+---
+notebook: public
+entry_identifier: 20210605134931-x37f
+key: 053lv3cu3tv5nu5u00a1xbgg3mgg
+filename: IMG_1533.jpeg
+content_type: image/jpeg
+metadata: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+byte_size: 48486
+checksum: 8CfzcJLNkwmzFl7L5MPgsA==
+created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2021-06-05 17:52:49.737542000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/New_York
+  time: 2021-06-05 13:52:49.737542000 Z
