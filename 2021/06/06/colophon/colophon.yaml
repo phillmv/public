@@ -1,21 +1,21 @@
 ---
-notebook: public
 body: "# Sample public notebook"
-metadata:
+hide: false
+notebook: public
+identifier: colophon
 kind:
+subject: Sample public notebook
+occurred_at: 2021-06-06 13:31:56.000000000 -04:00
+metadata:
 source:
 url:
 latitude:
 longitude:
-occurred_at: 2021-06-06 17:31:56.555825000 +00:00
 ended_at:
-created_at: 2021-06-06 17:31:56.555530000 +00:00
-updated_at: 2021-06-06 17:33:14.063094000 +00:00
+created_at: 2021-06-06 13:31:56.555530000 -04:00
+updated_at: 2021-06-06 13:50:41.983842000 -04:00
 summary:
-identifier: colophon
-subject: Sample public notebook
 from:
 to:
 in_reply_to:
 state:
-hide: true
