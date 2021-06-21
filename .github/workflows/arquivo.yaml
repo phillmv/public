@@ -1,4 +1,4 @@
-name: Middleman
+name: Arquivo Static Export
 
 on:
   workflow_dispatch:
@@ -16,4 +16,4 @@ jobs:
           REMOTE_BRANCH: gh-pages
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           HTTP_PREFIX: 'public'
-        uses: phillmv/arquivo-export@from-arquivo
+        uses: phillmv/arquivo-export@main
