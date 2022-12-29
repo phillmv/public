@@ -1,4 +1,4 @@
-name: Arquivo Static Export
+name: MAWL
 
 on:
   workflow_dispatch:
@@ -12,4 +12,4 @@ jobs:
     steps:
       - uses: actions/checkout@v1
       - name: Build & Deploy to GitHub Pages
-        uses: phillmv/arquivo-export@yolo
+        uses: phillmv/mawl@main
