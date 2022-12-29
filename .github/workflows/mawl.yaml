@@ -12,4 +12,4 @@ jobs:
     steps:
       - uses: actions/checkout@v1
       - name: Build & Deploy to GitHub Pages
-        uses: phillmv/mawl@main
+        uses: phillmv/mawl@yolo
